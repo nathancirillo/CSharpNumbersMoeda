@@ -1,0 +1,15 @@
+C:\Projetos\BaltaIO\NumbersMoeda\bin\Debug\net6.0\NumbersMoeda.exe
+C:\Projetos\BaltaIO\NumbersMoeda\bin\Debug\net6.0\NumbersMoeda.deps.json
+C:\Projetos\BaltaIO\NumbersMoeda\bin\Debug\net6.0\NumbersMoeda.runtimeconfig.json
+C:\Projetos\BaltaIO\NumbersMoeda\bin\Debug\net6.0\NumbersMoeda.dll
+C:\Projetos\BaltaIO\NumbersMoeda\bin\Debug\net6.0\NumbersMoeda.pdb
+C:\Projetos\BaltaIO\NumbersMoeda\obj\Debug\net6.0\NumbersMoeda.csproj.AssemblyReference.cache
+C:\Projetos\BaltaIO\NumbersMoeda\obj\Debug\net6.0\NumbersMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BaltaIO\NumbersMoeda\obj\Debug\net6.0\NumbersMoeda.AssemblyInfoInputs.cache
+C:\Projetos\BaltaIO\NumbersMoeda\obj\Debug\net6.0\NumbersMoeda.AssemblyInfo.cs
+C:\Projetos\BaltaIO\NumbersMoeda\obj\Debug\net6.0\NumbersMoeda.csproj.CoreCompileInputs.cache
+C:\Projetos\BaltaIO\NumbersMoeda\obj\Debug\net6.0\NumbersMoeda.dll
+C:\Projetos\BaltaIO\NumbersMoeda\obj\Debug\net6.0\refint\NumbersMoeda.dll
+C:\Projetos\BaltaIO\NumbersMoeda\obj\Debug\net6.0\NumbersMoeda.pdb
+C:\Projetos\BaltaIO\NumbersMoeda\obj\Debug\net6.0\NumbersMoeda.genruntimeconfig.cache
+C:\Projetos\BaltaIO\NumbersMoeda\obj\Debug\net6.0\ref\NumbersMoeda.dll
